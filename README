@@ -5,3 +5,7 @@ mvn archetype:generate -DinteractiveMode=false -DarchetypeGroupId=org.openjdk.jm
 
 mvn versions:use-latest-releases
 
+
+# another examples
+
+https://github.com/ebundy/custom-collector-java8
